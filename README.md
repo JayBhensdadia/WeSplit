@@ -1,5 +1,5 @@
 
-# Unit Converter 
+# WeSplit
 
 It is a SwiftUI app that can be used to divide the check among multiple people while including the tip
 
